@@ -1,0 +1,6 @@
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible h1:2cauKuaELYAEARXRkq2LrJ0yDDv1rW7+wrTEdVL3uaU=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible/go.mod h1:qf9acutJ8cwBUhm1bqgz6Bei9/C/c93FPDljKWwsOgM=
+github.com/hegedustibor/htgo-tts v0.0.0-20201020054059-2b0b3a7cc05a h1:+eKoXgID66ADqttZxaCqvV92AK1DRwpGb4Igr6/Sqko=
+github.com/hegedustibor/htgo-tts v0.0.0-20201020054059-2b0b3a7cc05a/go.mod h1:RMCXb2VPY7VmPHclIib3rBrcDTJuOUlVnQwp8iBJNTo=
+github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
+github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
